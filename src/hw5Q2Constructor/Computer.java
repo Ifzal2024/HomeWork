@@ -1,7 +1,5 @@
 package hw5Q2Constructor;
 
-import java.lang.management.OperatingSystemMXBean;
-
 public class Computer {
 
 	public String brand;
