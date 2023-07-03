@@ -5,7 +5,7 @@ public class AboutMe {
 	public String myName = "Muhammad A Ifzal"; // Variable Initialized.
 	public byte age = 35;
 	public short myCarPrice = 5000;
-	public int myHouseNumber = 52152;
+	public int myHouseNumber = 5215245;
 	public long myBankBalance = 452300000521l;
 	public float myweight = 170.25360f;
 	public double myGrade = 3.5621345658;
