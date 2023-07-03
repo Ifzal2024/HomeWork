@@ -1,4 +1,4 @@
-package hw10Abstraction;
+package hw11Abstraction;
 
 public interface College {
 	public void commonRoom();
@@ -6,7 +6,7 @@ public interface College {
 	public void laboratory();
 
 	public void languageClub();
-	
+
 	public default void dorm() {
 		System.out.println(" Dorm is from College Interface ");
 
@@ -15,5 +15,5 @@ public interface College {
 	public static void studyRoom() {
 		System.out.println(" StudyRoom is from College Interface ");
 	}
-
+	
 }
